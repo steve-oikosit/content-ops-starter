@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/F369BF50-DEEF-4380-BC2A-B9A9D877A40E.png
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
