@@ -34,7 +34,7 @@ sections:
     media:
       url: /images/F369BF50-DEEF-4380-BC2A-B9A9D877A40E.png
       altText: ''
-      elementId: ''
+      elementId: <img src="/images/family-tech.jpg" alt="Family" class="rounded-xl" />
       type: ImageBlock
     badge:
       label: This is a badge
