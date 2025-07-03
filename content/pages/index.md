@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Oikos IT — Simple Tech Solutions for Families, Families, and Teams'
+      text: 'Oikos IT — Simple Tech Solutions for Families, Chur'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
