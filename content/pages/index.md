@@ -38,6 +38,9 @@ sections:
         <img src="/images/F369BF50-DEEF-4380-BC2A-B9A9D877A40E.png" alt="Family"
         class="rounded-2xl shadow-lg" />
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: x-small
     badge:
       label: This is a badge
       color: text-primary
