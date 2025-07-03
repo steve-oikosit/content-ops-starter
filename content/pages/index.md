@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderRadius: xx-large
+          borderRadius: full
     badge:
       label: This is a badge
       color: text-primary
