@@ -34,9 +34,7 @@ sections:
     media:
       url: /images/F369BF50-DEEF-4380-BC2A-B9A9D877A40E.png
       altText: ''
-      elementId: >-
-        <img src="/images/F369BF50-DEEF-4380-BC2A-B9A9D877A40E.png" alt="Family"
-        class="rounded-2xl shadow-lg" />
+      elementId: ''
       type: ImageBlock
       styles:
         self:
